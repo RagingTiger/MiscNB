@@ -20,6 +20,7 @@ command, simply run `make -n [COMMAND]`.
 + `all`: (*aka*: `make`) alias for `jupyter` command
 + `jupyter`: launches the Jupyter notebook development Docker image
 + `containers`: launch all Docker containers
++ `list-containers`: list all running containers
 + `stop-containers`: simply stops all running Docker containers
 + `restart-containers`: restart all containers
 + `clear-nb`: simply clears Jupyter notebook output
